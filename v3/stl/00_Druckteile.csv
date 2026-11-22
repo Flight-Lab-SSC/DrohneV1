@@ -1,0 +1,27 @@
+Datei;Anzahl;Material/Farbe;Abmessung X x Y x Z (mm)
+R01_Rumpfschale.stl;1;PETG weiss;99.8 x 99.8 x 28.0
+R04_Akku_Schublade.stl;1;PETG weiss;35.0 x 74.5 x 26.0
+R06_Kanzelring_mit_Clips.stl;1;PETG weiss;83.6 x 83.6 x 6.0
+R07_Kanzel.stl;1;PETG weiss;66.0 x 66.0 x 18.8
+R08_Seitenblende_rechts.stl;1;PETG weiss;3.9 x 20.0 x 15.0
+R08_Seitenblende_links.stl;1;PETG weiss;3.9 x 20.0 x 15.0
+R08_Seitenblende_vorne.stl;1;PETG weiss;20.0 x 3.0 x 15.0
+R09_LED_Visier.stl;1;PETG weiss;16.5 x 2.0 x 3.6
+R11_Nummernschild_CW.stl;2;PETG weiss;8.4 x 8.4 x 1.2
+R12_Nummernschild_CCW.stl;2;PETG weiss;8.4 x 8.4 x 1.2
+V01_Bajonett_Buchse.stl;4;PETG weiss;21.0 x 4.7 x 21.0
+V25_Akku_Riegel.stl;1;PETG weiss;9.0 x 2.5 x 3.5
+A_01_Auslegertraeger.stl;4;PETG weiss;16.0 x 49.5 x 17.4
+V05_Drehring.stl;4;PETG weiss;21.1 x 7.0 x 22.0
+A_02_Nummernschild_CW.stl;2;PETG weiss;7.6 x 7.6 x 1.2
+A_02_Nummernschild_CCW.stl;2;PETG weiss;7.6 x 7.6 x 1.2
+A_04_Motorgondel.stl;4;PETG weiss;28.0 x 37.0 x 28.0
+A_06_Motorabdeckung_CW.stl;2;PETG weiss;29.0 x 29.0 x 9.0
+A_06_Motorabdeckung_CCW.stl;2;PETG weiss;29.0 x 29.0 x 9.0
+A_07_Propellerschutz.stl;4;PETG weiss;85.8 x 85.8 x 53.1
+A_08_Stossfaenger.stl;4;TPU 95A weiss;90.8 x 90.8 x 4.0
+V09_Rastpin_Kaefig.stl;8;PETG weiss;13.4 x 13.4 x 9.2
+L01_Landekufe_rechts.stl;1;PETG weiss;22.0 x 114.2 x 15.0
+L02_Landekufe_links.stl;1;PETG weiss;22.0 x 114.2 x 15.0
+L03_Kufengummi.stl;4;TPU 95A weiss;6.6 x 24.0 x 6.6
+V17_Rastpin_Kufe.stl;4;PETG weiss;11.0 x 11.0 x 14.0
